@@ -9,10 +9,16 @@ The principal contribution is this exact finite classification for one fixed 3-b
 
 Status: Preprint; not human peer-reviewed. Novelty: INCONCLUSIVE. Rights: All rights reserved. Prior independent AI audit: MODEL / PROOF / COMPUTATION PASS; MINIMALITY PASS for square order only. AI auditing is not a substitute for human peer review.
 
+## Publication
+
+- [Zenodo Preprint — DOI 10.5281/zenodo.23919060](https://doi.org/10.5281/zenodo.23919060)
+- [Zenodo record](https://zenodo.org/records/23919060)
+- [GitHub Release v1.0](https://github.com/yonezaemon1-hub/no51-five-by-five-ordered-binary-pattern/releases/tag/v1.0)
+
 ## Files and reproduction
 
-- No51_v1.0_PREPRINT_20261103.pdf
-- No51_v1.0_REPRODUCIBILITY_20261103.zip
+- [Paper PDF](https://github.com/yonezaemon1-hub/no51-five-by-five-ordered-binary-pattern/releases/download/v1.0/No51_v1.0_PREPRINT_20261103.pdf)
+- [Reproducibility ZIP](https://github.com/yonezaemon1-hub/no51-five-by-five-ordered-binary-pattern/releases/download/v1.0/No51_v1.0_REPRODUCIBILITY_20261103.zip)
 
 The archive's frozen_v0.3/ directory preserves the audited historical snapshot, including its historical HOLD wording. The current release is v1.0. Do not alter the frozen files.
 
